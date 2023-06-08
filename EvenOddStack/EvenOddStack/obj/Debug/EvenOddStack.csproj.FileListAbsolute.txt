@@ -1,5 +1,0 @@
-D:\C#\EvenOddStack\EvenOddStack\bin\Debug\EvenOddStack.exe
-D:\C#\EvenOddStack\EvenOddStack\bin\Debug\EvenOddStack.pdb
-D:\C#\EvenOddStack\EvenOddStack\obj\Debug\EvenOddStack.csprojResolveAssemblyReference.cache
-D:\C#\EvenOddStack\EvenOddStack\obj\Debug\EvenOddStack.exe
-D:\C#\EvenOddStack\EvenOddStack\obj\Debug\EvenOddStack.pdb
