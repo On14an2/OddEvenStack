@@ -1,0 +1,15 @@
+D:\C#\OddEvenStack\OddEvenStack\bin\Debug\net7.0\OddEvenStack.exe
+D:\C#\OddEvenStack\OddEvenStack\bin\Debug\net7.0\OddEvenStack.deps.json
+D:\C#\OddEvenStack\OddEvenStack\bin\Debug\net7.0\OddEvenStack.runtimeconfig.json
+D:\C#\OddEvenStack\OddEvenStack\bin\Debug\net7.0\OddEvenStack.dll
+D:\C#\OddEvenStack\OddEvenStack\bin\Debug\net7.0\OddEvenStack.pdb
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.csproj.AssemblyReference.cache
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.AssemblyInfoInputs.cache
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.AssemblyInfo.cs
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.csproj.CoreCompileInputs.cache
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.dll
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\refint\OddEvenStack.dll
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.pdb
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\OddEvenStack.genruntimeconfig.cache
+D:\C#\OddEvenStack\OddEvenStack\obj\Debug\net7.0\ref\OddEvenStack.dll
